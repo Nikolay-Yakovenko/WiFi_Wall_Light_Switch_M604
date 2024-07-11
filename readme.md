@@ -1,1 +1,1 @@
-Перепрошивка WiFi_Wall_Light_Switch_M604
+Перепрошивка WiFi_Wall_Light_Switch_M604 
