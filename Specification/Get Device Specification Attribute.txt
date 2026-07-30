@@ -1,0 +1,171 @@
+device_id: bf3527a9610bafc3fcwsxu
+
+{
+  "result": {
+    "category": "kg",
+    "functions": [
+      {
+        "code": "switch_1",
+        "dp_id": 1,
+        "type": "Boolean",
+        "values": "{}"
+      },
+      {
+        "code": "switch_2",
+        "dp_id": 2,
+        "type": "Boolean",
+        "values": "{}"
+      },
+      {
+        "code": "switch_3",
+        "dp_id": 3,
+        "type": "Boolean",
+        "values": "{}"
+      },
+      {
+        "code": "switch_4",
+        "dp_id": 4,
+        "type": "Boolean",
+        "values": "{}"
+      },
+      {
+        "code": "countdown_1",
+        "dp_id": 7,
+        "type": "Integer",
+        "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+      },
+      {
+        "code": "countdown_2",
+        "dp_id": 8,
+        "type": "Integer",
+        "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+      },
+      {
+        "code": "countdown_3",
+        "dp_id": 9,
+        "type": "Integer",
+        "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+      },
+      {
+        "code": "countdown_4",
+        "dp_id": 10,
+        "type": "Integer",
+        "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+      },
+      {
+        "code": "relay_status",
+        "dp_id": 14,
+        "type": "Enum",
+        "values": "{\"range\":[\"power_off\",\"power_on\",\"last\"]}"
+      },
+      {
+        "code": "switch_backlight",
+        "dp_id": 16,
+        "type": "Boolean",
+        "values": "{}"
+      },
+      {
+        "code": "cycle_time",
+        "dp_id": 17,
+        "type": "String",
+        "values": "{}"
+      },
+      {
+        "code": "random_time",
+        "dp_id": 18,
+        "type": "String",
+        "values": "{}"
+      },
+      {
+        "code": "switch_inching",
+        "dp_id": 19,
+        "type": "String",
+        "values": "{}"
+      }
+    ],
+    "lang_config": {},
+    "status": [
+      {
+        "code": "switch_1",
+        "dp_id": 1,
+        "type": "Boolean",
+        "values": "{}"
+      },
+      {
+        "code": "switch_2",
+        "dp_id": 2,
+        "type": "Boolean",
+        "values": "{}"
+      },
+      {
+        "code": "switch_3",
+        "dp_id": 3,
+        "type": "Boolean",
+        "values": "{}"
+      },
+      {
+        "code": "switch_4",
+        "dp_id": 4,
+        "type": "Boolean",
+        "values": "{}"
+      },
+      {
+        "code": "countdown_1",
+        "dp_id": 7,
+        "type": "Integer",
+        "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+      },
+      {
+        "code": "countdown_2",
+        "dp_id": 8,
+        "type": "Integer",
+        "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+      },
+      {
+        "code": "countdown_3",
+        "dp_id": 9,
+        "type": "Integer",
+        "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+      },
+      {
+        "code": "countdown_4",
+        "dp_id": 10,
+        "type": "Integer",
+        "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+      },
+      {
+        "code": "relay_status",
+        "dp_id": 14,
+        "type": "Enum",
+        "values": "{\"range\":[\"power_off\",\"power_on\",\"last\"]}"
+      },
+      {
+        "code": "switch_backlight",
+        "dp_id": 16,
+        "type": "Boolean",
+        "values": "{}"
+      },
+      {
+        "code": "cycle_time",
+        "dp_id": 17,
+        "type": "String",
+        "values": "{}"
+      },
+      {
+        "code": "random_time",
+        "dp_id": 18,
+        "type": "String",
+        "values": "{}"
+      },
+      {
+        "code": "switch_inching",
+        "dp_id": 19,
+        "type": "String",
+        "values": "{}"
+      }
+    ]
+  },
+  "success": true,
+  "t": 1715764085904,
+  "tid": "a41148dd129a11ef9a8e62f092a4528b"
+}
